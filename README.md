@@ -1,6 +1,7 @@
 # locater
 
-A new Flutter project.
+a new app exprience.
+
 
 ## Getting Started
 
